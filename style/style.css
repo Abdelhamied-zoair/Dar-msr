@@ -1,0 +1,216 @@
+*{
+    padding: 0%;
+    margin: 0%;
+
+}
+/*start header*/
+
+
+    .container{
+    margin-top: 8px;
+
+}
+.container a{
+
+    text-decoration: none;
+    color: grey;
+    font-size: 18px;
+    margin-right: 8px;
+
+}
+.container a:hover{
+
+    color: black;
+}
+.divider {
+    margin-left: 8px;
+    margin-right: 8px;
+    color: #BEC8B8;
+}
+.topbar {
+    border-bottom: 1px solid #E8EEE4;
+}
+
+.btn:not(:disabled):not(.disabled) {
+    cursor: pointer;
+}
+.container a {
+    text-decoration: none;
+    color: grey;
+    font-size: 18px;
+    margin-right: 8px;
+}
+span{
+    color: rgb(0, 217, 165) ;
+    font-size: 22px;
+    font-family: sans-serif;
+
+}
+.abdo a{
+    font-size: 22px;
+    font-family: sans-serif;
+}
+.btn-lg {
+    background-color: #00D9A5;
+    border-color:#00D9A5 ;
+    padding: -0.5rem 1rem;
+    font-size: 1.25rem;
+    line-height: 1.5;
+    border-radius: 0.3rem;
+    color:#444 ;
+}
+#lg5{
+    background-color: #00D9A5;
+    border-color:#00D9A5 ;
+    padding: -0.5rem 1rem;
+    font-size: 1.25rem;
+    line-height: 1.5;
+    border-radius: 0.3rem;
+    color:white ;
+}
+#lg5:hover{
+    background-color: #007bff;
+}
+/*end navbar and header*/
+/*start sections*/
+
+section{
+    height: 80vh;
+
+    width: 100%;
+
+}
+.darmsr{
+    text-align: center;
+
+}
+.photo{
+    float: right;
+    clear: right;
+}
+.text1{
+    position: absolute;
+    
+    top: 44%;
+    left: 10%;
+}
+.text{
+    font-size: 2.5rem;
+}
+.btn-lg2{
+    margin-top: 5px;
+    background-color: #00D9A5;
+    border-color:#00D9A5 ;
+    padding: -0.5rem 1rem;
+    font-size: 1.25rem;
+    line-height: 1.5;
+    border-radius: 0.3rem;
+   
+
+}
+
+/*end section1*/
+
+
+.section2{
+    height: 150vh;
+    width: 100%;
+    margin-top: 80px;
+}
+
+.card1{
+    flex-direction: row;
+    justify-content: center;
+    display: flex;
+    margin-top: 20px;
+   
+}
+
+
+/*end sections*/
+
+
+.section3{
+    height: 70vh;
+    width: 100%;
+    margin-top: 80px;
+  
+}
+.photo2{
+
+    float: right;
+    clear: right;
+}
+.text2{
+position: absolute;
+    left: 15%;
+    margin-top: 10%;
+}
+.words{
+    font-size: 25px;
+    color: #444;
+}
+.Register{
+
+    margin-top: 80px;
+
+}
+.app-text{
+
+    margin-top: 80px;
+
+}
+.page-section{
+
+    margin-top: 90px;
+}
+.About-text{
+    margin-top: 120px;
+   left: 20%;
+}
+
+#dar-msr{
+    font-size: 22px;
+    color: #00D9A5;
+}
+h3{
+    font-size: 30px;
+    color: #444;
+}
+.btn-lg3{
+    margin-top: 5px;
+    background-color: gray;
+    border-color:gray ;
+    padding: -0.5rem 1rem;
+    font-size: 1.25rem;
+    line-height: 1.5;
+    border-radius: 0.3rem;
+
+}
+
+footer{
+
+    margin-top: 60px;
+    width: 100%;
+    background-color:#282A35 ;
+    color: white;
+    padding-top: 25px;
+    padding-bottom: 15px;
+}
+footer a{
+    text-decoration: none;
+    color: white;
+}
+footer a:hover{
+    color: rgb(10, 10, 10);
+    text-decoration: none;
+}
+.btn1{
+    padding: 4px 8px ;
+    border-color: black;
+    background-color: rgb(10, 10, 10);
+    color: white;
+    font-style: italic;
+    border-radius: 5px;
+
+}

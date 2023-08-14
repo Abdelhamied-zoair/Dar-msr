@@ -1,0 +1,24 @@
+
+.dr-text{
+    position: absolute;
+    font-size: 2rem;
+    color: #444;
+    top: 45%;
+    left: 10%;
+
+}
+.about-doctors{
+
+    height: 90vh;
+    width: 100%;
+
+}
+.about-doctors2{
+
+    height: 90vh;
+    width: 100%;
+
+}
+#doc-page{
+    float: right;clear: right;
+}
